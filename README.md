@@ -1,4 +1,4 @@
-# Agentable
+# AgentDefects
 This repository contains a preliminary version of Agentable, an CPG- and LLM-powered tool designed to detect code defects in Agents.
 
 ## Structure
