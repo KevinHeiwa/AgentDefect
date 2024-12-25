@@ -4,3 +4,13 @@ datasets
 tiktoken
 swebench
 libcst
+ast
+sys
+subprocess
+os
+re
+json
+collections
+shutil
+tqdm
+concurrent
