@@ -1,0 +1,227 @@
+Exist ADAL Defect. The LLM: base in SpeechToTextModelOptions of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_1_python/khoj/src/khoj/database/models/__init__.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in Oversight of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_1_python/beebot/beebot/models/database_models.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in OpenaiChatCompletionRequest of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_1_python/TaskingAI/backend/app/routes/openai/schemas/chat_completion.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in OpenaiTextEmbeddingRequest of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_1_python/TaskingAI/backend/app/routes/openai/schemas/text_embedding.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in OpenaiTextEmbeddingResponse of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_1_python/TaskingAI/backend/app/routes/openai/schemas/text_embedding.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in Agent of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_1_python/julep/agents-api/agents_api/autogen/Agents.py', '/home/ningkw/Agentable/Experment_Agent/Agent/Group_1_python/julep/integrations-service/integrations/autogen/Agents.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in CreateAgentRequest of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_1_python/julep/agents-api/agents_api/autogen/Agents.py', '/home/ningkw/Agentable/Experment_Agent/Agent/Group_1_python/julep/integrations-service/integrations/autogen/Agents.py'] is not suitable
+
+
+Exist ADAL Defect. The LLM: None in PatchAgentRequest of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_1_python/julep/agents-api/agents_api/autogen/Agents.py', '/home/ningkw/Agentable/Experment_Agent/Agent/Group_1_python/julep/integrations-service/integrations/autogen/Agents.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in OpenAISettings of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_1_python/julep/agents-api/agents_api/autogen/Chat.py', '/home/ningkw/Agentable/Experment_Agent/Agent/Group_1_python/julep/integrations-service/integrations/autogen/Chat.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in LlamaParseSetup of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_1_python/julep/agents-api/agents_api/autogen/Tools.py', '/home/ningkw/Agentable/Experment_Agent/Agent/Group_1_python/julep/integrations-service/integrations/autogen/Tools.py'] is not suitable
+
+
+Exist ADAL Defect. The LLM: ernie-text-embedding in ErnieEmbeddings of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_1_python/ERNIE-SDK/erniebot-agent/src/erniebot_agent/extensions/langchain/embeddings/ernie.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in Admin of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_1_python/openagi/src/openagi/agent.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in Worker of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_1_python/openagi/src/openagi/worker.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in ModelConfigEntity of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_1_python/dify/api/core/app/app_config/entities.py'] is not suitable
+
+
+Exist ADAL Defect. The LLM: None in ModelConfigWithCredentialsEntity of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_1_python/dify/api/core/app/entities/app_invoke_entities.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in LangfuseGeneration of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_1_python/dify/api/core/ops/langfuse_trace/entities/langfuse_trace_entity.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in ToolDescription of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_1_python/dify/api/core/tools/entities/tool_entities.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in PythonE2B of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_1_python/AgentPilot/src/plugins/openinterpreter/src/terminal_interface/profiles/defaults/e2b.py'] is not suitable
+
+
+Exist ADAL Defect. The LLM: None in TokenEncoder of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_1_python/cover-agent/cover_agent/settings/token_handling.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in InMemoryTaskDB of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_2_python/agent-protocol/packages/sdk/python/agent_protocol/db.py'] is not suitable 
+
+
+Exist ADAL Defect. The LLM: None in PythonExecutor of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_2_python/ToRA/src/utils/python_executor.py'] is not suitable
+
+
+Exist ADAL Defect. The LLM: OPENAI in WolframAlphaOpenAIToolkitBuilder of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_2_python/automata/automata/experimental/tools/builders/wolfram_alpha_oracle_builder.py'] is not suitable
+
+
+Exist ADAL Defect. The LLM: OPENAI in PyCodeWriterOpenAIToolkitBuilder of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_2_python/automata/automata/tools/builders/py_writer_builder.py'] is not suitable
+
+
+Exist ADAL Defect. The LLM: text-embedding-ada-002 in LocalAIEmbeddings of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_2_python/Langchain-Chatchat/libs/chatchat-server/chatchat/server/localai_embeddings.py'] is not suitable
+
+
+Exist ADAL Defect. The LLM: None in LLMConfig of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/cognee/cognee/modules/settings/get_settings.py', '/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/cognee/cognee/modules/settings/save_llm_config.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in ElevenLabsConfig of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/bolna/bolna/models.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in OpenAIConfig of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/bolna/bolna/models.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in DeepgramConfig of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/bolna/bolna/models.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in AzureConfig of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/bolna/bolna/models.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in ConversationBot of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/agentchain/main.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in EmbeddingConfig of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/MemGPT/letta/schemas/embedding_config.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in LLMConfig of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/MemGPT/letta/schemas/llm_config.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in CreateAssistantRequest of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/MemGPT/letta/server/rest_api/routers/openai/assistants/schemas.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in CreateRunRequest of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/MemGPT/letta/server/rest_api/routers/openai/assistants/schemas.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in CreateThreadRunRequest of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/MemGPT/letta/server/rest_api/routers/openai/assistants/schemas.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in WebParserConfig of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/cognita/backend/modules/parsers/web_parser.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in ModelProviderConfig of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/cognita/backend/types.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in ReaLMAdapter of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/Test-Agent/chat/model/model_adapter.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in CodeLlamaTestGPTAdapter of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/Test-Agent/chat/model/model_adapter.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in APIChatCompletionRequest of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/Test-Agent/chat/protocol/api_protocol.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in ChatCompletionStreamResponse of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/Test-Agent/chat/protocol/api_protocol.py', '/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/Test-Agent/chat/protocol/openai_api_protocol.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in APITokenCheckRequestItem of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/Test-Agent/chat/protocol/api_protocol.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in CompletionRequest of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/Test-Agent/chat/protocol/api_protocol.py', '/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/Test-Agent/chat/protocol/openai_api_protocol.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in CompletionResponse of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/Test-Agent/chat/protocol/api_protocol.py', '/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/Test-Agent/chat/protocol/openai_api_protocol.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in CompletionStreamResponse of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/Test-Agent/chat/protocol/api_protocol.py', '/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/Test-Agent/chat/protocol/openai_api_protocol.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in ChatCompletionStreamResponse of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/Test-Agent/chat/protocol/api_protocol.py', '/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/Test-Agent/chat/protocol/openai_api_protocol.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in TokenCheckRequestItem of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/Test-Agent/chat/protocol/openai_api_protocol.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in EmbeddingsRequest of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/Test-Agent/chat/protocol/openai_api_protocol.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in CompletionRequest of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/Test-Agent/chat/protocol/api_protocol.py', '/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/Test-Agent/chat/protocol/openai_api_protocol.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in ValidateAPIKeyRequest of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/SuperAGI/superagi/controllers/models_controller.py', '/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/SuperAGI/superagi/models/types/validate_llm_api_key_request.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in CustomLLM of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/CodeFuse-muAgent/examples/ekg_examples/start.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in LLMParamsResponse of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/CodeFuse-muAgent/muagent/schemas/apis/ekg_api_schema.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in LLMOllamaPullRequest of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/CodeFuse-muAgent/muagent/schemas/apis/ekg_api_schema.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in Speech2Text of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/TaskWeaver/project/plugins/speech2text.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in SummarizePaperPlugin of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/TaskWeaver/project/plugins/paper_summary.py', '/home/ningkw/Agentable/Experment_Agent/Agent/Group_3_python/TaskWeaver/tests/unit_tests/data/plugins/paper_summary.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in QuestionSuggestionChainBase of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_4_python/OpenAgents/real_agents/adapters/executors/question_suggestion/base.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in PythonChain of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_4_python/OpenAgents/real_agents/data_agent/python/base.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in SQLDatabaseChain of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_4_python/OpenAgents/real_agents/data_agent/sql/base.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in APICallingChain of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_4_python/OpenAgents/real_agents/plugins_agent/api_calling/base.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in WebotCallingChain of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_4_python/OpenAgents/real_agents/web_agent/web_browsing/base.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in WebotChain of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_4_python/OpenAgents/real_agents/web_agent/web_browsing/end2end/base.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in FuncReq of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_4_python/XAgent/XAgentGen/xgen/server/datamodel.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in XAgentResponse of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_4_python/XAgent/XAgentGen/xgen/server/datamodel.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in AbstractPlatformModel of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_4_python/call-center-ai/app/helpers/config_models/llm.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: LlmModel in PromptsModel of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_4_python/call-center-ai/app/helpers/config_models/prompts.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in LLMConfig of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_4_python/modelscope-agent/modelscope_agent_servers/assistant_server/models.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in AgentRequest of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_4_python/modelscope-agent/modelscope_agent_servers/assistant_server/models.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: default-model in ChatCompletionRequest of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_4_python/modelscope-agent/modelscope_agent_servers/assistant_server/models.py'] is not suitable
+
+
+Exist ADAL Defect. The LLM: None in BaseLLM of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_4_python/promptulate/promptulate/llms/base.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in AssistantBase of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_4_python/open-assistant-api/app/models/assistant.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in AssistantUpdate of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_4_python/open-assistant-api/app/models/assistant.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in AzureOpenAIConfig of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_4_python/vocode-core/vocode/streaming/models/agent.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in AssistantRunRequest of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_4_python/app-builder/python/core/assistant/type/thread_type.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in RagWithBaiduSearchProRequest of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_4_python/app-builder/python/core/components/rag_with_baidu_search_pro/component.py'] is not suitable
+
+
+Exist ADAL Defect. The LLM: None in LLMFunctionCall of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_4_python/langroid/langroid/language_models/base.py'] is not suitable
+ 
+
+Exist ADAL Defect. The LLM: None in BaseEmbedder of ['/home/ningkw/Agentable/Experment_Agent/Agent/Group_4_python/dynamiq/dynamiq/components/embedders/base.py'] is not suitable
+ 
