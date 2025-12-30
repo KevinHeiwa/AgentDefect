@@ -1,7 +1,7 @@
 # 📄 Report (How to Read)
 
 This folder contains **8 detection reports**.  
-Each report file corresponds to **one defect type** and lists the findings detected by our tool.  [oai_citation:0‡GitHub](https://github.com/KevinHeiwa/AgentDefect/blob/main/Data/Report/README.md)
+Each report file corresponds to **one defect type** and lists the findings detected by our tool. 
 
 ## Files
 
