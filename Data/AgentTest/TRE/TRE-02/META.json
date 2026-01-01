@@ -1,0 +1,8 @@
+{
+  "agent_id": "TRE-02",
+  "defect_type": "TRE",
+  "variant_index": 2,
+  "files_changed": [
+    "hackernews.py"
+  ]
+}

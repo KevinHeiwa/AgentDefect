@@ -1,0 +1,8 @@
+{
+  "agent_id": "EPDD-02",
+  "defect_type": "EPDD",
+  "variant_index": 2,
+  "files_changed": [
+    "llm.py"
+  ]
+}

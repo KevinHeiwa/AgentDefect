@@ -1,0 +1,8 @@
+{
+  "agent_id": "ADAL-08",
+  "defect_type": "ADAL",
+  "variant_index": 8,
+  "files_changed": [
+    "llm.py"
+  ]
+}

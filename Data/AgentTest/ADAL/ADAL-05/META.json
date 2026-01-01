@@ -1,0 +1,8 @@
+{
+  "agent_id": "ADAL-05",
+  "defect_type": "ADAL",
+  "variant_index": 5,
+  "files_changed": [
+    "agent.py"
+  ]
+}

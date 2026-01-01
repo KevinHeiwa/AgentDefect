@@ -1,0 +1,8 @@
+{
+  "agent_id": "IETI-11",
+  "defect_type": "IETI",
+  "variant_index": 11,
+  "files_changed": [
+    "base.py"
+  ]
+}

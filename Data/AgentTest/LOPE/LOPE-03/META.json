@@ -1,0 +1,8 @@
+{
+  "agent_id": "LOPE-03",
+  "defect_type": "LOPE",
+  "variant_index": 3,
+  "files_changed": [
+    "agent.py"
+  ]
+}

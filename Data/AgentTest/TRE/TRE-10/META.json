@@ -1,0 +1,8 @@
+{
+  "agent_id": "TRE-10",
+  "defect_type": "TRE",
+  "variant_index": 10,
+  "files_changed": [
+    "search.py"
+  ]
+}

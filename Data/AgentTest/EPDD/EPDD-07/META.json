@@ -1,0 +1,8 @@
+{
+  "agent_id": "EPDD-07",
+  "defect_type": "EPDD",
+  "variant_index": 7,
+  "files_changed": [
+    "agent.py"
+  ]
+}

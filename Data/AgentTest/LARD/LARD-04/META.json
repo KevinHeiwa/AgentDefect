@@ -1,0 +1,8 @@
+{
+  "agent_id": "LARD-04",
+  "defect_type": "LARD",
+  "variant_index": 4,
+  "files_changed": [
+    "agent.py"
+  ]
+}

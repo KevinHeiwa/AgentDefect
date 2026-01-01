@@ -1,0 +1,8 @@
+{
+  "agent_id": "MNFT-01",
+  "defect_type": "MNFT",
+  "variant_index": 1,
+  "files_changed": [
+    "llm.py"
+  ]
+}
