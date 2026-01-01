@@ -4,7 +4,7 @@ This repository contains a preliminary version of Agentable, an CPG- and LLM-pow
 ## Structure
 |         **Folder**         |                        **Usage**                        |
 |:--------------------------:|:-------------------------------------------------------:|
-|            Data            |         AgentSet and AgentTest        |
+|            Data            |         Definition (Posts), AgentSet and AgentTest        |
 | Detect |  Including detect code of Agent defect  |
 |  Preprocess | Including preprocess code of Agent defect |
 

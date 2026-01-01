@@ -3,14 +3,14 @@ import os
 import subprocess
 
 # Load the CSV file
-file_path = '/home/ningkw/Agentable/Experment_Agent/RQ1_Agent.csv'
+file_path = ""
 df = pd.read_csv(file_path, header=None)
 
 # Extract the second column which contains the git repository URLs
 repo_urls = df[1].tolist()
 
 # Define the base directory where projects will be cloned
-base_clone_directory = '/home/ningkw/Agentable/Experment_Agent/Agent'
+base_clone_directory = ''
 
 # Create the base directory if it doesn't exist
 os.makedirs(base_clone_directory, exist_ok=True)
