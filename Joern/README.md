@@ -1,4 +1,4 @@
-# Joern — Minimal README
+# Joern
 
 Joern is an open-source code analysis platform for analyzing source code, bytecode, and binary executables. It generates **Code Property Graphs (CPGs)** and lets you mine them using a Scala-based query language (CPGQL), commonly used for vulnerability discovery and static program analysis.
 
